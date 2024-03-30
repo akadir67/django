@@ -1,1 +1,1 @@
-# loca11y
+# This platform is to learn django
